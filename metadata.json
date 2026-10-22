@@ -1,0 +1,11 @@
+{
+  "name": "Yasmin AI - Personal AI Girlfriend & Android Assistant",
+  "description": "Yasmin AI - आपकी प्यारी और समझदार पर्सनल AI गर्लफ्रेंड और स्मार्ट Android फोन असिस्टेंट। हिंदी वॉइस चैट, जेमिनी ब्रेन और फोन कंट्रोल के साथ।",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
